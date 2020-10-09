@@ -9,7 +9,7 @@
 
 # Using GIT
 
-1. ```git clone https://github.com/ForSomeCodezYT/Discord-Bot-Template-JavaScript.git
+1. ```git clone https://github.com/ForSomeCodezYT/Discord-Bot-Template-JavaScript.git```
 2. ```cd Discord-Bot-Template-JavaScript```
 3. ```npm i``` OR ```npm install```
 
